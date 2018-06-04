@@ -1,0 +1,15 @@
+
+
+.mygrid-wrapper-div {
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 350px;
+    width: 100%;
+}
+
+.mygrid-wrapper-div-modal {
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 180px;
+  width: 100%;
+}
